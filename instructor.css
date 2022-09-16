@@ -1,0 +1,11 @@
+html{
+    font-family: 'Prompt', sans-serif;
+}
+body{
+    background-image: url("flower-pattern-desktop-wallpaper-vector-cute-hd-background_53876-144635.jpeg");
+}
+
+table, th, td{
+    border: .1rem solid;
+    background-color: antiquewhite;
+}
